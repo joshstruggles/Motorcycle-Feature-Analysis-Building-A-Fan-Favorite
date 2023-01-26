@@ -92,10 +92,10 @@ Training : 0.839<br>
 Test: 0.679<br>
 <center><img src="pictures/featureimportance.jpg" alt="Drawing" style="width: 500px;"/> </center>
 <br>
-### RandomizedSearchCV 3.0 Confusion Matrix
+RandomizedSearchCV 3.0 Confusion Matrix
 <img src="pictures/confusion_matrix.png" alt="Drawing" style="width: 500px;"/><br>
 
-### Accuracy : 0.679
+## Accuracy : 0.679
 What is the accuracy of our model? Ultimately, motorcycles are a pretty subjective thing. Even looking at the cult classic bikes that we picked there are certainly opinions that aren't necessarily positive on these bikes. That said, accuracy can be calculated in this way: <br><br>
 
 <center>Accuracy = # of true (positive and negative) outcomes / total # of observations</center><br>
