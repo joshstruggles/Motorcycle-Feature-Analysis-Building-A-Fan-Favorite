@@ -2,7 +2,7 @@
 Student: Joshua Ruggles <br>
 Instructor: Joe Comeaux/Morgan Jones <br>
 Data Science Flex
-
+Accompanying blog post: https://joshua-ruggles.blogspot.com/2023/01/phase-3-project-walkthrough-and.html
 # Project Overview
 For this project we will look at feature importance in the rating of a proposed new motorcycle. Specifically we will be using classification tools from sklearn. We will be utilizing the "all_bikez_curated.csv" file from Kaggle, curated by Emmanuel F. Werr<br>
 
