@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .ipynb_checkpoints
 .ipynb_checkpoints
 .ipynb_checkpoints
+=======
+#ignore untitled.txt
+untitled.txt
+
+#ignore .ipynb_checkpoints
+.ipynb_checkpoints
+>>>>>>> 73bf5e2bc3fdf47a386df903c0f0f86a97b5622c
