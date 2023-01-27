@@ -125,12 +125,12 @@ In regards to performance, I believe that a 67.9% accuracy score is acceptable; 
 That said, I believe that the model very much is useful; for our purposes we are looking to identify _features_, and the way that we got the data for these features was specifically through _averages_ of the data. The value of this model is specifically tied to the business problem: we have identified features and feature outputs that should be magnified in the data and are technically the most important to a new manufacturer. We strove to create a predictive model that answers a fairly specific question: _what makes a motorcycle, fun?_
 
 # Repository Structure 
-├── Unused models
-├── flagged
-├── imputer_model
-├── pictures
-├── .gitignore
-├── Phase 3 Presentation.pdf
-├── README.md
-├── all_bikez_curated.csv
-└──notebook.ipynb
+├── Unused models <br>
+├── flagged<br>
+├── imputer_model<br>
+├── pictures<br>
+├── .gitignore<br>
+├── Phase 3 Presentation.pdf<br>
+├── README.md<br>
+├── all_bikez_curated.csv<br>
+└── notebook.ipynb
