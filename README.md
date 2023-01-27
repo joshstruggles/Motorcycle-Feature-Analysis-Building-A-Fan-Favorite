@@ -122,4 +122,15 @@ In regards to performance, I believe that a 67.9% accuracy score is acceptable; 
 <br><br>
 <center><img src="pictures/team_harleyvsteam_bmw.jpg" /></center><br>
 
-That said, I believe that the model very much is useful; for our purposes we are looking to identify _features_, and the way that we got the data for these features was specifically through _averages_ of the data. The value of this model is specifically tied to the business problem: we have identified features and feature outputs that should be magnified in the data and are technically the most important to a new manufacturer. We strove to create a predictive model that answers a fairly specific question: _what makes a motorcycle, fun?_ 
+That said, I believe that the model very much is useful; for our purposes we are looking to identify _features_, and the way that we got the data for these features was specifically through _averages_ of the data. The value of this model is specifically tied to the business problem: we have identified features and feature outputs that should be magnified in the data and are technically the most important to a new manufacturer. We strove to create a predictive model that answers a fairly specific question: _what makes a motorcycle, fun?_
+
+# Repository Structure 
+├── Unused models
+├── flagged
+├── imputer_model
+├── pictures
+├── .gitignore
+├── Phase 3 Presentation.pdf
+├── README.md
+├── all_bikez_curated.csv
+└──notebook.ipynb
