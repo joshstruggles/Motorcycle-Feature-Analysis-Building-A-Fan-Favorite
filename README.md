@@ -1,4 +1,4 @@
-# Motorcycle Feature Analysis Building A Fan Favorite
+# Motorcycle Feature Analysis: Building A Fan Favorite
 
 Student: Joshua Ruggles <br>
 Instructor: Joe Comeaux/Morgan Jones <br>
